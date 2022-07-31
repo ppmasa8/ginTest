@@ -1,10 +1,10 @@
 module ginTest
 
-go 1.12
+go 1.19
 
 require (
 	github.com/creack/pty v1.1.18 // indirect
-	github.com/gin-gonic/gin v1.8.1 // indirect
+	github.com/gin-gonic/gin v1.8.1
 	github.com/go-playground/validator/v10 v10.11.0 // indirect
 	github.com/goccy/go-json v0.9.10 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
